@@ -16,3 +16,4 @@ My solutions to [StrataScratch](https://www.stratascratch.com) interview questio
 | 2167 | High Earners in Support Departments | Amazon, Spotify, Uber | Easy | [SQL](interview-questions/analytical/2167-high-earners-in-support-departments.sql) |
 | 2168 | Users Missing Phone Numbers | Meta, Airbnb, Linkedin | Easy | [SQL](interview-questions/analytical/2168-users-missing-phone-numbers.sql) |
 | 9653 | MacBookPro User Event Count | Apple | Easy | [SQL](interview-questions/analytical/9653-count-the-number-of-user-events-performed-by-macbookpro-users.sql) |
+| 9663 | Most Profitable Financial Company | Forbes | Easy | [SQL](interview-questions/analytical/9663-most-profitable-financial-company.sql) |
