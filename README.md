@@ -15,3 +15,4 @@ My solutions to [StrataScratch](https://www.stratascratch.com) interview questio
 | 9688 | Churro Activity Date | Yelp | Easy | [SQL](interview-questions/analytical/9688-churro-activity-date.sql) |
 | 2167 | High Earners in Support Departments | Amazon, Spotify, Uber | Easy | [SQL](interview-questions/analytical/2167-high-earners-in-support-departments.sql) |
 | 2168 | Users Missing Phone Numbers | Meta, Airbnb, Linkedin | Easy | [SQL](interview-questions/analytical/2168-users-missing-phone-numbers.sql) |
+| 9653 | MacBookPro User Event Count | Apple | Easy | [SQL](interview-questions/analytical/9653-count-the-number-of-user-events-performed-by-macbookpro-users.sql) |
